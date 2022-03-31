@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/GregoSX">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gregosx&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gregosx&layout=compact&langs_count=7&theme=dark"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=gregosx&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gregosx&layout=compact&langs_count=7&theme=dark"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Grego-C++" height="30" width="40" src="https://user-images.githubusercontent.com/93603791/161054818-a84bf68b-f561-406e-a511-d9adea2ef047.png">

@@ -9,11 +9,11 @@
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Grego-C++" height="30" width="40" src="https://user-images.githubusercontent.com/93603791/161054818-a84bf68b-f561-406e-a511-d9adea2ef047.png">
-  <img align="center" alt="Grego-VS COde" height="30" width="40" src="https://user-images.githubusercontent.com/93603791/161054708-952f7ff2-7fee-472f-8df3-c41e19626c63.png">
-  <img align="center" alt="Grego-Ubuntu" height="30" width="40" src="https://user-images.githubusercontent.com/93603791/161054584-cb52b387-8c33-4ab9-aad0-d6d778d445fc.png">
+  <img align="center" alt="Grego-VS COde" height="40" width="40" src="https://user-images.githubusercontent.com/93603791/161054708-952f7ff2-7fee-472f-8df3-c41e19626c63.png">
+  <img align="center" alt="Grego-Ubuntu" height="40" width="40" src="https://user-images.githubusercontent.com/93603791/161054584-cb52b387-8c33-4ab9-aad0-d6d778d445fc.png">
   <img align="center" alt="Grego-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Grego-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Grego-MySql" height="30" width="40" src="https://user-images.githubusercontent.com/93603791/161055375-8de9f165-ed68-4c1e-bc07-c2614e3dd29c.png">
+  <img align="center" alt="Grego-MySql" height="60" width="50" src="https://user-images.githubusercontent.com/93603791/161055375-8de9f165-ed68-4c1e-bc07-c2614e3dd29c.png">
   <img align="center" alt="Grego-CSS" height="30" width="40" src="https://user-images.githubusercontent.com/93603791/161056337-c4790a6c-158e-4e19-8123-9d68ee69726f.png">
 </div>
   

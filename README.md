@@ -1,5 +1,7 @@
 ### Olá!! Eu sou o Guilherme Grego!! 👋
 
+#### Study computer science at [Universidade Federal de Lavras](https://ufla.br/?msclkid=85d51fe2a7e011ec84421963ad9f1e48)
+
 <div align="center">
   <a href="https://github.com/GregoSX">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=gregosx&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>

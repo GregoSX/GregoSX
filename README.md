@@ -1,4 +1,4 @@
-### Olá!! Eu sou o Guilherme Grego!! 👋
+### Hello!! I'm Guilherme Grego!! 👋
 
 #### Computer science student at [Universidade Federal de Lavras](https://ufla.br/?msclkid=85d51fe2a7e011ec84421963ad9f1e48)
 
